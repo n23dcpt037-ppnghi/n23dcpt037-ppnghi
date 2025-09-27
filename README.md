@@ -30,6 +30,15 @@ I enjoy turning ideas into visuals using tools like:
 ## **My dream**
 I want to become a graphic designer who can tell stories through art and design. My goal is to create works that feel warm, fun, and full of personality—like little sparks of happiness that brighten someone’s day.
 
+## **Connect with me** 
+
+<a href="https://www.instagram.com/_phgngi4/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" />
+</a>
+<a href="https://www.facebook.com/tarlyganer28/" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" />
+</a>
+
 
 
 
