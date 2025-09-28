@@ -26,7 +26,8 @@ I enjoy turning ideas into visuals using tools like:
 * Premiere (PR)
 * After Effects (AE)
 * Blender
-  …and always curious to learn more ✨
+
+   …and always curious to learn more ✨
 
 ## **My dream**
 I want to become a graphic designer who can tell stories through art and design. My goal is to create works that feel warm, fun, and full of personality—like little sparks of happiness that brighten someone’s day.
