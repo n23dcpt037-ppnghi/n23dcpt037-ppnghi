@@ -15,7 +15,7 @@ Hi! I’m Phuong Nghi, a third-year student at PTIT HCMC. I live right here in H
 
 * Drawing & sketching
 * Taking photos
-* Playing musical instruments
+* Playing musical instruments (Guitar, piano, ukulele)
 * Enjoying simple, everyday meals (yes, rice always makes me happy!)
 
 ## **My skills**
@@ -25,6 +25,7 @@ I enjoy turning ideas into visuals using tools like:
 * Photoshop (PS)
 * Premiere (PR)
 * After Effects (AE)
+* Blender
   …and always curious to learn more ✨
 
 ## **My dream**
