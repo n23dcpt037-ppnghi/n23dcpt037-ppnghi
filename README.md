@@ -8,10 +8,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/n23dcpt037-ppnghi/n23dcpt037-phgngi/main/text.svg" width="400" />
-</p>
-
 # **About me**
 Hi! I’m Phuong Nghi, a third-year student at PTIT HCMC. I live right here in HCMC — a city that’s always full of energy and creativity.
 
