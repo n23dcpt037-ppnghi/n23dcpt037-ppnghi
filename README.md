@@ -8,17 +8,17 @@
 
 </div>
 
-# **About me**
-Hi! I’m Phuong Nghi, a third-year student at PTIT HCMC. I live right here in HCMC — a city that’s always full of energy and creativity.
+# **⭐ About me**
+Hi! I’m Phuong Nghi, a third-year student at PTIT HCMC. I live right here in HCMC — a city that’s always full of energy and creativity. 🚀
 
-## **My hobbies**
+## **⭐ My hobbies**
 
-* Drawing & sketching
-* Taking photos
-* Playing musical instruments (Guitar, piano, ukulele)
-* Enjoying simple, everyday meals (yes, rice always makes me happy!)
+* Drawing & sketching ✏️🎨
+* Taking photos 📸
+* Playing musical instruments (Guitar, piano, ukulele) 🎵 🎸 🎹
+* Enjoying simple, everyday meals (yes, rice always makes me happy!) 🍚
 
-## **My skills**
+## **⭐ My skills**
 I enjoy turning ideas into visuals using tools like:
 
 * Adobe Illustrator (AI)
@@ -29,12 +29,12 @@ I enjoy turning ideas into visuals using tools like:
 
    …and always curious to learn more ✨
 
-## **My dream**
-I want to become a graphic designer who can tell stories through art and design. My goal is to create works that feel warm, fun, and full of personality—like little sparks of happiness that brighten someone’s day.
+## **⭐ My dream**
+I want to become a graphic designer who can tell stories through art and design. My goal is to create works that feel warm, fun, and full of personality—like little sparks of happiness that brighten someone’s day. 🌈
 
-## **My latest project**
+## **⭐ My latest project** 
 
-This is Tibi - a 3d project of designing an exhibition booth that I made with Blender.
+This is Tibi - a 3d project of designing an exhibition booth that I made with Blender. ✨
 
 ![tibi](https://github.com/n23dcpt037-ppnghi/n23dcpt037-phgngi/blob/main/Tibi.png?raw=true)
 
