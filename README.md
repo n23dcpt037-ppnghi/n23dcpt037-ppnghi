@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="text.svg" width="400">
+  <img src="https://raw.githubusercontent.com/n23dcpt037-ppnghi/n23dcpt037-phgngi/main/text.svg" width="400" />
 </p>
 
 # **About me**
