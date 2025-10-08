@@ -8,7 +8,9 @@
 
 </div>
 
-
+<p align="center">
+  <img src="text.svg" width="400">
+</p>
 
 # **About me**
 Hi! I’m Phuong Nghi, a third-year student at PTIT HCMC. I live right here in HCMC — a city that’s always full of energy and creativity.
