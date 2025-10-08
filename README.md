@@ -34,7 +34,9 @@ I want to become a graphic designer who can tell stories through art and design.
 
 ## **My latest project**
 
-![tibi](https://github.com/n23dcpt037-ppnghi/n23dcpt037-phgngi/blob/main/tibi.png?raw=true)
+This is Tibi - a 3d project of designing an exhibition booth that I made with Blender.
+
+![tibi](https://github.com/n23dcpt037-ppnghi/n23dcpt037-phgngi/blob/main/Tibi.png?raw=true)
 
 ## **Connect with me** 
 
