@@ -8,6 +8,8 @@
 
 </div>
 
+
+
 # **About me**
 Hi! I’m Phuong Nghi, a third-year student at PTIT HCMC. I live right here in HCMC — a city that’s always full of energy and creativity.
 
@@ -46,6 +48,10 @@ This is Tibi - a 3d project of designing an exhibition booth that I made with Bl
 <a href="https://www.facebook.com/tarlyganer28/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" />
 </a>
+<a href="mailto:n23dcpt037@student.ptithcm.edu.vn" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
+</a>
+
 
 
 
