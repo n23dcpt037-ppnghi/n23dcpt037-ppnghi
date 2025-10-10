@@ -38,7 +38,7 @@ This is Tibi - a 3d project of designing an exhibition booth that I made with Bl
 
 ![tibi](https://github.com/n23dcpt037-ppnghi/n23dcpt037-phgngi/blob/main/Tibi.png?raw=true)
 
-## **Connect with me** 
+## **⭐ Connect with me** 
 
 <a href="https://www.instagram.com/_phgngi4/" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" />
